@@ -20,7 +20,7 @@ import javax.sql.DataSource;
 public class MybatisDataSource {
 	@Autowired
 	private DataSourceProperties dataSourceProperties;
-	private final static String mapperLocations="classpath:com/zts/dao/*.xml";
+	private final static String mapperLocations="classpath:com/zts/service/dao/*.xml";
 
 	private org.apache.tomcat.jdbc.pool.DataSource pool;
 	
