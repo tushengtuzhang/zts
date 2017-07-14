@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.zts;
+package com.zts.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.zts.controller;
+package com.zts.service.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
